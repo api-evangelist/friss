@@ -1,0 +1,16 @@
+generated: '2026-10-13'
+method: none
+source:
+- https://zapier.com/apps/friss/integrations
+- https://n8n.io/integrations/friss/
+- https://composio.dev/toolkits/friss
+- https://monid.ai/tools/friss
+checked:
+- https://composio.dev/toolkits/friss
+- https://monid.ai/tools/friss
+- https://n8n.io/integrations/friss/
+- https://zapier.com/apps/friss/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

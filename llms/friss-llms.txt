@@ -1,0 +1,31 @@
+# FRISS
+
+> FRISS builds AI-powered fraud detection and risk assessment software for property & casualty (P&C) insurers. Founded in 2006, FRISS scores every policy, claim, and renewal in real time so fraud gets caught and honest customers keep moving. FRISS operates across more than 45 countries with over 300 implementations, serving large carriers, specialized insurers, and MGAs.
+
+FRISS integrates with major policy administration and claims platforms, including Guidewire, Duck Creek Technologies, and Sapiens. Flagged transactions go to human review while lower-risk cases proceed automatically. The website is available in English, Dutch (/nl/), German (/de/), Spanish (/es/), French (/fr/), and Portuguese (/pt/, /pt-pt/).
+
+## Products
+
+- [Risk Assessment at Underwriting](https://www.friss.com/products/risk-assessment-at-underwriting): Real-time risk scoring for personal lines underwriting, enabling straight-through processing for low-risk policies.
+- [Fraud Detection at Claims](https://www.friss.com/products/fraud-detection-at-claims): Scores claims for fraud risk in real time so genuine claims can be fast-tracked.
+- [Investigations at SIU](https://www.friss.com/products/investigations-at-siu): Case management and investigation tooling for special investigation units.
+- [Compliance Screening](https://www.friss.com/products/friss-compliance-screening/): Screening against sanctions and compliance watchlists.
+- [Media Check](https://www.friss.com/products/media-check): Analyzes photos and documents submitted with claims.
+
+## Company
+
+- [About FRISS](https://www.friss.com/about): Company background and mission.
+- [Contact / Get a demo](https://www.friss.com/contact): Request a demo or reach customer support.
+- [Press Kit](https://www.friss.com/press-kit): Brand guidelines, logos, and media resources.
+- [Press](https://www.friss.com/press/): Company news and announcements.
+- [ESG](https://www.friss.com/esg): Environmental, social, and governance commitments.
+- [Careers](https://www.friss.com/working-at-friss): Working at FRISS and open vacancies.
+
+## Resources
+
+- [Customer Stories](https://www.friss.com/customer-stories/): Case studies from insurers using FRISS.
+- [Blog](https://www.friss.com/blogs/): Articles on insurance fraud, risk, and underwriting.
+- [Downloads](https://www.friss.com/downloads/): Ebooks, whitepapers, and reports.
+- [Insurance Fraud Report](https://www.friss.com/fraud-report): FRISS's recurring industry report on the state of insurance fraud.
+- [Partners](https://www.friss.com/partner-overview/): Technology and implementation partners, including Guidewire, Duck Creek Technologies, and Verisk.
+- [Developer Documentation](https://docs.dev.frisscloud.com): API and integration documentation for the FRISS platform.

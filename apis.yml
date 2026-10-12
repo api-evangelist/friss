@@ -1,23 +1,68 @@
 aid: friss
+
 name: FRISS
-description: 'FRISS is a company surfaced via the API Evangelist harvest backlog (source: market-layer-gap)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://framerusercontent.com/assets/kxedfQ3PQPThZsXvooP43EZxHA.png
+
+description: FRISS builds AI-powered fraud detection and risk assessment software
+  (Trust Automation Platform) for property and casualty insurers, scoring policies,
+  claims and renewals in real time. No public API documentation or machine-readable
+  API contract was found on its public surface.
+
 url: https://raw.githubusercontent.com/api-evangelist/friss/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:market-layer-gap
+
 x-tier: stub
+
 x-tier-reason: harvest
+
 specificationVersion: '0.20'
+
 created: '2026-10-13'
+
 modified: '2026-10-13'
+
 tags:
 - Company
-apis: []
+- Insurance
+- Fraud Detection
+- Risk Assessment
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Hosts
+  url: hosts/friss-hosts.yml
+- type: DomainSecurity
+  url: security/friss-domain-security.yml
 - type: Website
   url: https://www.friss.com
+- type: LLMsTxt
+  url: llms/friss-llms.txt
+- type: Blog
+  url: https://www.friss.com/blog/insurance-in-2025
+- type: Newsroom
+  url: https://www.friss.com/press/
+- type: PrivacyPolicy
+  url: https://www.friss.com/privacy-policy
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-13'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://www.friss.com
+    status: 200
