@@ -15,7 +15,7 @@ x-type: company
 
 x-source: harvest:market-layer-gap
 
-x-tier: stub
+x-tier: profiled
 
 x-tier-reason: harvest
 
@@ -38,6 +38,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- type: IntegrationEdges
+  url: integrations/friss-integration-edges.yml
 - type: Hosts
   url: hosts/friss-hosts.yml
 - type: DomainSecurity
@@ -66,3 +68,7 @@ x-coverage:
   evidence:
   - url: https://www.friss.com
     status: 200
+x-enrichment:
+  status: enriched
+  pass: local-v5
+  date: '2026-10-13'
